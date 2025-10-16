@@ -1,0 +1,22 @@
+Program operational logs, not related to the data being logged, rather related to the program and network connectivity.
+Also intended to update at midnight daily... once that feature is implemented.
+  
+Things to know about connectivity log:
+The current program reports when the program reconnects, with date and time.
+If connectivity is lost, the program will retry 5 times to reconnect consecutively.
+If the program fails 5 times to reconnect, it will wait 10 seconds, then try the the 
+Reconnection process again.
+
+Durring this time, logging to the output file will still log, but the values reccorded 
+in this time will probably be "ERR"
+
+Edge Case: PLC connectivity is re-established mid read register operation: 
+Result: some values in the Line output will read "ERR"
+Please note, that these values may not be linear, the registes are listed in order, but not read in order.
+
+Output logs headers are sorted by their appearance in the REGISTERS list, while their reading occurs in batches, 
+based on memory allocation, and register block size. 
+
+The puprose of this logging section is to improve the application performance and network opeartion, 
+by logging events that occur in the programs connectivity, and operation.
+  
