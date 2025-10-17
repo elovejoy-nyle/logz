@@ -202,3 +202,5 @@ INFO:__main__:Reconnect attempt 3 failed: timed out at: 2025-10-17T10:11:54
 INFO:__main__:Reconnect attempt 4 failed: timed out at: 2025-10-17T10:12:01 
 INFO:__main__:Reconnect attempt 5 failed: timed out at: 2025-10-17T10:12:08 
 INFO:__main__:All reconnect attempts failed -waiting 10 s before retry. 2025-10-17T10:12:11
+INFO:__main__:Reconnected. 2025-10-17T11:15:19
+INFO:__main__:Reconnected. 2025-10-17T11:20:21
