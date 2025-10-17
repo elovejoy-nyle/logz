@@ -556,3 +556,982 @@ Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T16:54:49
 Reconnecting to PLC... (attempt 3/5)
 Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T16:54:55
 Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T16:55:01
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T16:55:07
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T16:55:24
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T16:55:30
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T16:55:36
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T16:55:42
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T16:55:48
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T16:56:04
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T16:56:10
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T16:56:16
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T16:56:22
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T16:56:28
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T16:56:44
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T16:56:50
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T16:56:56
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T16:57:03
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T16:57:09
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T16:57:25
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T16:57:31
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T16:57:37
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T16:57:43
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T16:57:49
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T16:58:05
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T16:58:11
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T16:58:17
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T16:58:23
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T16:58:29
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T16:58:45
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T16:58:52
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T16:58:58
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T16:59:04
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T16:59:10
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T16:59:26
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T16:59:32
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T16:59:38
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T16:59:44
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T16:59:50
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:00:06
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:00:12
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:00:18
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:00:24
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:00:31
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:00:47
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:00:53
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:00:59
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:01:05
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:01:11
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:01:27
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:01:33
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:01:39
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:01:45
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:01:51
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:02:07
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:02:13
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:02:20
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:02:26
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:02:32
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:02:48
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:02:54
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:03:00
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:03:06
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:03:12
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:03:28
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:03:34
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:03:40
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:03:46
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:03:52
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:04:09
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:04:15
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:04:21
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:04:27
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:04:33
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:04:49
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:04:55
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:05:01
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:05:07
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:05:13
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:05:29
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:05:35
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:05:41
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:05:48
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:05:54
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:06:10
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:06:16
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:06:22
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:06:28
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:06:34
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:06:50
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:06:56
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:07:02
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:07:08
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:07:14
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:07:30
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:07:37
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:07:43
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:07:49
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:07:55
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:08:11
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:08:17
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:08:23
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:08:29
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:08:35
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:08:51
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:08:57
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:09:03
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:09:09
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:09:16
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:09:32
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:09:38
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:09:44
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:09:50
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:09:56
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:10:12
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:10:18
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:10:24
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:10:30
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:10:36
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:10:52
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:10:58
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:11:05
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:11:11
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:11:17
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:11:33
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:11:39
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:11:45
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:11:51
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:11:57
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:12:13
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:12:19
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:12:25
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:12:31
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:12:37
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:12:54
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:13:00
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:13:06
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:13:12
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:13:18
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:13:34
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:13:40
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:13:46
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:13:52
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:13:58
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:14:14
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:14:20
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:14:26
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:14:33
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:14:39
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:14:55
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:15:01
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:15:07
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:15:13
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:15:19
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:15:35
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:15:41
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:15:47
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:15:53
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:15:59
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:16:15
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:16:22
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:16:28
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:16:34
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:16:40
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:16:56
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:17:02
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:17:08
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:17:14
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:17:20
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:17:36
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:17:42
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:17:48
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:17:54
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:18:01
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:18:17
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:18:23
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:18:29
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:18:35
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:18:41
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:18:57
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:19:03
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:19:09
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:19:15
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:19:21
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:19:37
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:19:43
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:19:50
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:19:56
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:20:02
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:20:18
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:20:24
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:20:30
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:20:36
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:20:42
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:20:58
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:21:04
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:21:10
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:21:16
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:21:22
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:21:39
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:21:45
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:21:51
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:21:57
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:22:03
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:22:19
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:22:25
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:22:31
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:22:37
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:22:43
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:22:59
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:23:05
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:23:11
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:23:18
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:23:24
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:23:40
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:23:46
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:23:52
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:23:58
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:24:04
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:24:20
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:24:26
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:24:32
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:24:38
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:24:44
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:25:00
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:25:07
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:25:13
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:25:19
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:25:25
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:25:41
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:25:47
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:25:53
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:25:59
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:26:05
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:26:21
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:26:27
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:26:33
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:26:39
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:26:46
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:27:02
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:27:08
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:27:14
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:27:20
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:27:26
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:27:42
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:27:48
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:27:54
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:28:00
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:28:06
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:28:22
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:28:28
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:28:35
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:28:41
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:28:47
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:29:03
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:29:09
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:29:15
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:29:21
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:29:27
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:29:43
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:29:49
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:29:55
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:30:01
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:30:07
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:30:24
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:30:30
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:30:36
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:30:42
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:30:48
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:31:04
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:31:10
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:31:16
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:31:22
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:31:28
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:31:44
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:31:50
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:31:56
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:32:03
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:32:09
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:32:25
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:32:31
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:32:37
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:32:43
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:32:49
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:33:05
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:33:11
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:33:17
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:33:23
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:33:29
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:33:45
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:33:52
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:33:58
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:34:04
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:34:10
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:34:26
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:34:32
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:34:38
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:34:44
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:34:50
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:35:06
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:35:12
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:35:18
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:35:24
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:35:31
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:35:47
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:35:53
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:35:59
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:36:05
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:36:11
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:36:27
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:36:33
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:36:39
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:36:45
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:36:51
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:37:07
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:37:13
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:37:20
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:37:26
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:37:32
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:37:48
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:37:54
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:38:00
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:38:06
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:38:12
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:38:28
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:38:34
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:38:40
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:38:46
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:38:52
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:39:09
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:39:15
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:39:21
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:39:27
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:39:33
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:39:49
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:39:55
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:40:01
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:40:07
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:40:13
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:40:29
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:40:35
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:40:41
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:40:48
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:40:54
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:41:10
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:41:16
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:41:22
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:41:28
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:41:34
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:41:50
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:41:56
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:42:02
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:42:08
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:42:14
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:42:30
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:42:37
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:42:43
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:42:49
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:42:55
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:43:11
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:43:17
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:43:23
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:43:29
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:43:35
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:43:51
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:43:57
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:44:03
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:44:09
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:44:16
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:44:32
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:44:38
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:44:44
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:44:50
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:44:56
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:45:12
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:45:18
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:45:24
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:45:30
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:45:36
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:45:52
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:45:58
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:46:05
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:46:11
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:46:17
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:46:33
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:46:39
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:46:45
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:46:51
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:46:57
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:47:13
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:47:19
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:47:25
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:47:31
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:47:37
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:47:54
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:48:00
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:48:06
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:48:12
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:48:18
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:48:34
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:48:40
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:48:46
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:48:52
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:48:58
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:49:14
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:49:20
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:49:26
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:49:33
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:49:39
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:49:55
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:50:01
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:50:07
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:50:13
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:50:19
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:50:35
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:50:41
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:50:47
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:50:53
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:50:59
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:51:15
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:51:22
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:51:28
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:51:34
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:51:40
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:51:56
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:52:02
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:52:08
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:52:14
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:52:20
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:52:36
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:52:42
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:52:48
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:52:54
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:53:01
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:53:17
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:53:23
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:53:29
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:53:35
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:53:41
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:53:57
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:54:03
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:54:09
+Reconnecting to PLC... (attempt 4/5)
+Reconnect attempt 4 failed: [Errno 113] No route to host at: 2025-10-17T17:54:15
+Reconnecting to PLC... (attempt 5/5)
+Reconnect attempt 5 failed: [Errno 113] No route to host at: 2025-10-17T17:54:21
+All reconnect attempts failed -waiting 10 s before retry.
+Reconnecting to PLC... (attempt 1/5)
+Reconnect attempt 1 failed: [Errno 113] No route to host at: 2025-10-17T17:54:37
+Reconnecting to PLC... (attempt 2/5)
+Reconnect attempt 2 failed: [Errno 113] No route to host at: 2025-10-17T17:54:43
+Reconnecting to PLC... (attempt 3/5)
+Reconnect attempt 3 failed: [Errno 113] No route to host at: 2025-10-17T17:54:50
+Reconnecting to PLC... (attempt 4/5)
