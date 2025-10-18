@@ -1,0 +1,60 @@
+Traceback (most recent call last):
+  File "/home/w/readIO4.py", line 133, in reconnect
+    s = socket.create_connection((PLC_IP, PLC_PORT), timeout=4.0)
+  File "/usr/lib/python3.13/socket.py", line 864, in create_connection
+    raise exceptions[0]
+  File "/usr/lib/python3.13/socket.py", line 849, in create_connection
+    sock.connect(sa)
+    ~~~~~~~~~~~~^^^^
+OSError: [Errno 113] No route to host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/w/readIO4.py", line 258, in <module>
+    main()
+    ~~~~^^
+  File "/home/w/readIO4.py", line 165, in main
+    sock = reconnect()
+  File "/home/w/readIO4.py", line 149, in reconnect
+    return reconnect()
+  File "/home/w/readIO4.py", line 149, in reconnect
+    return reconnect()
+  File "/home/w/readIO4.py", line 149, in reconnect
+    return reconnect()
+  [Previous line repeated 983 more times]
+  File "/home/w/readIO4.py", line 143, in reconnect
+    logger.info(f"Reconnect attempt {attempt} failed: {e} at: {current_date} ")
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/logging/__init__.py", line 1520, in info
+    self._log(INFO, msg, args, **kwargs)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/logging/__init__.py", line 1665, in _log
+    self.handle(record)
+    ~~~~~~~~~~~^^^^^^^^
+  File "/usr/lib/python3.13/logging/__init__.py", line 1681, in handle
+    self.callHandlers(record)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/usr/lib/python3.13/logging/__init__.py", line 1737, in callHandlers
+    hdlr.handle(record)
+    ~~~~~~~~~~~^^^^^^^^
+  File "/usr/lib/python3.13/logging/__init__.py", line 1027, in handle
+    self.emit(record)
+    ~~~~~~~~~^^^^^^^^
+  File "/usr/lib/python3.13/logging/__init__.py", line 1265, in emit
+    StreamHandler.emit(self, record)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/logging/__init__.py", line 1151, in emit
+    msg = self.format(record)
+  File "/usr/lib/python3.13/logging/__init__.py", line 999, in format
+    return fmt.format(record)
+           ~~~~~~~~~~^^^^^^^^
+  File "/usr/lib/python3.13/logging/__init__.py", line 715, in format
+    s = self.formatMessage(record)
+  File "/usr/lib/python3.13/logging/__init__.py", line 684, in formatMessage
+    return self._style.format(record)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/usr/lib/python3.13/logging/__init__.py", line 472, in format
+    return self._format(record)
+           ~~~~~~~~~~~~^^^^^^^^
+RecursionError: maximum recursion depth exceeded
