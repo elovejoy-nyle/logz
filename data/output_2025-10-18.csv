@@ -1,0 +1,2 @@
+TIME,EWT_Thermowell_ANSI,LWT_Thermowell_ANSI,EWT_unit,LWT_unit,Ambient_air_temp,RH,GPM_KEYANCE,DLT,LLT,SLT1,SLP,DLP,K2_EEV_POS,SH,Compressor_on,Capacity,COP,GPM_ps_1_float,Temp_prosense_1,GPM_float,SubCooling_F,EVAP,GPM_ps_2_float,TruPwr3Ph_E360fp,TruPwr3Ph_E360cl1,TruPwr3Ph,LOG_ERR
+2025-10-18T00:00:00,70.0,70.6,78.08,84.2,66.23,41.02,0,63.9,70.0,67.0,56.0,71.0,0,13.0,0,0.0,0.0,0.0,73,0.0,-70.0,62.42,0.0,0.0,0.0,0.0,False
