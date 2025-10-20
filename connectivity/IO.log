@@ -6550,3 +6550,33 @@ INFO:__main__:Reconnected. 2025-10-20T06:46:19
 INFO:__main__:Reconnected. 2025-10-20T06:56:25
 INFO:__main__:Reconnected. 2025-10-20T06:56:25
 INFO:__main__:Reconnected. 2025-10-20T15:01:00
+INFO:__main__:Starting thread for LOGGER (10.10.10.57)
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:Starting thread for TEST_STATION (10.10.10.30)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:Starting thread for CHAMBER (10.10.10.10)
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-20T15:22:18
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-20T15:22:18
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-20T15:22:18
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-20T15:22:21
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-20T15:22:21
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-20T15:22:21
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-20T15:22:24
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-20T15:22:24
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-20T15:22:24
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnected at 2025-10-20T15:22:27
+INFO:__main__:TEST_STATION: Built D batches: [('D0000', 11), ('D0014', 8), ('D0024', 7), ('D0032', 6), ('D0039', 2), ('D0048', 7), ('D0056', 7), ('D0064', 6), ('D0080', 2), ('D0300', 24), ('D0350', 4), ('D0400', 14)]
+INFO:__main__:CHAMBER: Reconnected at 2025-10-20T15:22:27
+INFO:__main__:CHAMBER: Built D batches: [('D0008', 6), ('D0022', 6), ('D0030', 2), ('D0042', 6), ('D0050', 2), ('D0062', 4), ('D0068', 4), ('D0082', 6), ('D0090', 2), ('D0094', 2), ('D0100', 15), ('D0400', 14)]
+INFO:__main__:LOGGER: Reconnected at 2025-10-20T15:22:27
+INFO:__main__:LOGGER: Built D batches: [('D0000', 16), ('D0019', 4), ('D0026', 2), ('D0030', 2), ('D0040', 4), ('D0050', 10), ('D0100', 5), ('D0110', 2), ('D0120', 7), ('D0150', 8), ('D0162', 11), ('D0220', 11), ('D0250', 12), ('D0270', 6), ('D0306', 16), ('D0324', 8), ('D0350', 6), ('D0404', 4), ('D0410', 4), ('D0506', 16), ('D0533', 4), ('D0606', 18), ('D0632', 4), ('D2036', 10), ('D2060', 2), ('D2064', 6), ('D3000', 4), ('D3036', 4), ('D3072', 4), ('D3108', 20), ('D4000', 2), ('D4434', 2), ('D5302', 9)]
