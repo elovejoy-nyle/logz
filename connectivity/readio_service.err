@@ -58,3 +58,15 @@ Traceback (most recent call last):
     return self._format(record)
            ~~~~~~~~~~~~^^^^^^^^
 RecursionError: maximum recursion depth exceeded
+Exception in thread Thread-4 (THR_PLC):
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/threading.py", line 1043, in _bootstrap_inner
+    self.run()
+    ~~~~~~~~^^
+  File "/usr/lib/python3.13/threading.py", line 994, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/w/readIO4.py", line 536, in THR_PLC
+    plc_name = plc_config["name"]
+               ~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
