@@ -6906,3 +6906,75 @@ INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
 INFO:__main__:CHAMBER: Reconnected at 2025-10-21T09:49:43
 INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
 INFO:__main__:TEST_STATION: Reconnected at 2025-10-21T09:49:43
+INFO:__main__:Starting thread for LOGGER (10.10.10.57)
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:Starting thread for CHAMBER (10.10.10.10)
+INFO:__main__:Starting thread for R513A_UNIT (10.10.10.92)
+INFO:__main__:Starting thread for TEST_STATION (10.10.10.30)
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnected at 2025-10-22T14:06:41
+INFO:__main__:CHAMBER: Reconnected at 2025-10-22T14:06:41
+INFO:__main__:TEST_STATION: Reconnected at 2025-10-22T14:06:41
+INFO:__main__:CHAMBER: Built D batches: [('D0008', 6), ('D0022', 6), ('D0030', 2), ('D0042', 6), ('D0050', 2), ('D0062', 4), ('D0068', 4), ('D0082', 6), ('D0090', 2), ('D0094', 2), ('D0100', 15), ('D0400', 14)]
+INFO:__main__:LOGGER: Built D batches: [('D0000', 16), ('D0019', 4), ('D0026', 2), ('D0030', 2), ('D0040', 4), ('D0050', 10), ('D0100', 5), ('D0110', 2), ('D0120', 7), ('D0150', 8), ('D0162', 11), ('D0220', 11), ('D0250', 12), ('D0270', 6), ('D0306', 16), ('D0324', 8), ('D0350', 6), ('D0404', 4), ('D0410', 4), ('D0506', 16), ('D0533', 4), ('D0606', 18), ('D0632', 4), ('D2036', 10), ('D2060', 2), ('D2064', 6), ('D3000', 4), ('D3036', 4), ('D3072', 4), ('D3108', 20), ('D4000', 2), ('D4434', 2), ('D5302', 9)]
+INFO:__main__:TEST_STATION: Built D batches: [('D0000', 11), ('D0014', 8), ('D0024', 7), ('D0032', 6), ('D0039', 2), ('D0048', 7), ('D0056', 7), ('D0064', 6), ('D0080', 2), ('D0300', 24), ('D0350', 4), ('D0400', 14)]
+INFO:__main__:R513A_UNIT: Reconnected at 2025-10-22T14:06:41
+INFO:__main__:R513A_UNIT: Built D batches: [('D0080', 2), ('D0102', 2), ('D0105', 2), ('D0110', 4), ('D0116', 4), ('D0126', 2), ('D0130', 8), ('D0142', 4), ('D0151', 6), ('D0159', 2), ('D0163', 8), ('D0179', 2), ('D0284', 2), ('D0312', 2), ('D0321', 2), ('D0401', 2), ('D0450', 8), ('D0502', 9), ('D0970', 4), ('D1006', 2), ('D1205', 4), ('D1219', 2), ('D1247', 4), ('D1330', 2), ('D2710', 2), ('D3500', 4), ('D3520', 3), ('D3526', 2), ('D3607', 15), ('D3826', 2), ('D4181', 2), ('D4457', 2), ('D4524', 2), ('D10115', 2), ('D10399', 2)]
+INFO:__main__:Starting thread for LOGGER (10.10.10.57)
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:Starting thread for TEST_STATION (10.10.10.30)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnected at 2025-10-22T14:06:47
+INFO:__main__:Starting thread for CHAMBER (10.10.10.10)
+INFO:__main__:Starting thread for R513A_UNIT (10.10.10.92)
+INFO:__main__:LOGGER: Built D batches: [('D0000', 16), ('D0019', 4), ('D0026', 2), ('D0030', 2), ('D0040', 4), ('D0050', 10), ('D0100', 5), ('D0110', 2), ('D0120', 7), ('D0150', 8), ('D0162', 11), ('D0220', 11), ('D0250', 12), ('D0270', 6), ('D0306', 16), ('D0324', 8), ('D0350', 6), ('D0404', 4), ('D0410', 4), ('D0506', 16), ('D0533', 4), ('D0606', 18), ('D0632', 4), ('D2036', 10), ('D2060', 2), ('D2064', 6), ('D3000', 4), ('D3036', 4), ('D3072', 4), ('D3108', 20), ('D4000', 2), ('D4434', 2), ('D5302', 9)]
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnected at 2025-10-22T14:06:47
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Built D batches: [('D0000', 11), ('D0014', 8), ('D0024', 7), ('D0032', 6), ('D0039', 2), ('D0048', 7), ('D0056', 7), ('D0064', 6), ('D0080', 2), ('D0300', 24), ('D0350', 4), ('D0400', 14)]
+INFO:__main__:CHAMBER: Reconnected at 2025-10-22T14:06:47
+INFO:__main__:CHAMBER: Built D batches: [('D0008', 6), ('D0022', 6), ('D0030', 2), ('D0042', 6), ('D0050', 2), ('D0062', 4), ('D0068', 4), ('D0082', 6), ('D0090', 2), ('D0094', 2), ('D0100', 15), ('D0400', 14)]
+INFO:__main__:R513A_UNIT: Reconnected at 2025-10-22T14:06:47
+INFO:__main__:R513A_UNIT: Built D batches: [('D0080', 2), ('D0102', 2), ('D0105', 2), ('D0110', 4), ('D0116', 4), ('D0126', 2), ('D0130', 8), ('D0142', 4), ('D0151', 6), ('D0159', 2), ('D0163', 8), ('D0179', 2), ('D0284', 2), ('D0312', 2), ('D0321', 2), ('D0401', 2), ('D0450', 8), ('D0502', 9), ('D0970', 4), ('D1006', 2), ('D1205', 4), ('D1219', 2), ('D1247', 4), ('D1330', 2), ('D2710', 2), ('D3500', 4), ('D3520', 3), ('D3526', 2), ('D3607', 15), ('D3826', 2), ('D4181', 2), ('D4457', 2), ('D4524', 2), ('D10115', 2), ('D10399', 2)]
+INFO:__main__:Starting thread for LOGGER (10.10.10.57)
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:Starting thread for TEST_STATION (10.10.10.30)
+INFO:__main__:Starting thread for CHAMBER (10.10.10.10)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:Starting thread for R513A_UNIT (10.10.10.92)
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-22T14:08:57
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-22T14:08:57
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-22T14:08:57
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-22T14:08:57
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-22T14:09:00
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-22T14:09:00
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-22T14:09:00
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-22T14:09:00
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-22T14:09:03
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-22T14:09:03
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-22T14:09:03
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-22T14:09:03
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnected at 2025-10-22T14:09:06
+INFO:__main__:LOGGER: Built D batches: [('D0000', 16), ('D0019', 4), ('D0026', 2), ('D0030', 2), ('D0040', 4), ('D0050', 10), ('D0100', 5), ('D0110', 2), ('D0120', 7), ('D0150', 8), ('D0162', 11), ('D0220', 11), ('D0250', 12), ('D0270', 6), ('D0306', 16), ('D0324', 8), ('D0350', 6), ('D0404', 4), ('D0410', 4), ('D0506', 16), ('D0533', 4), ('D0606', 18), ('D0632', 4), ('D2036', 10), ('D2060', 2), ('D2064', 6), ('D3000', 4), ('D3036', 4), ('D3072', 4), ('D3108', 20), ('D4000', 2), ('D4434', 2), ('D5302', 9)]
+INFO:__main__:CHAMBER: Reconnected at 2025-10-22T14:09:06
+INFO:__main__:CHAMBER: Built D batches: [('D0008', 6), ('D0022', 6), ('D0030', 2), ('D0042', 6), ('D0050', 2), ('D0062', 4), ('D0068', 4), ('D0082', 6), ('D0090', 2), ('D0094', 2), ('D0100', 15), ('D0400', 14)]
+INFO:__main__:TEST_STATION: Reconnected at 2025-10-22T14:09:06
+INFO:__main__:TEST_STATION: Built D batches: [('D0000', 11), ('D0014', 8), ('D0024', 7), ('D0032', 6), ('D0039', 2), ('D0048', 7), ('D0056', 7), ('D0064', 6), ('D0080', 2), ('D0300', 24), ('D0350', 4), ('D0400', 14)]
+INFO:__main__:R513A_UNIT: Reconnected at 2025-10-22T14:09:06
+INFO:__main__:R513A_UNIT: Built D batches: [('D0080', 2), ('D0102', 2), ('D0105', 2), ('D0110', 4), ('D0116', 4), ('D0126', 2), ('D0130', 8), ('D0142', 4), ('D0151', 6), ('D0159', 2), ('D0163', 8), ('D0179', 2), ('D0284', 2), ('D0312', 2), ('D0321', 2), ('D0401', 2), ('D0450', 8), ('D0502', 9), ('D0970', 4), ('D1006', 2), ('D1205', 4), ('D1219', 2), ('D1247', 4), ('D1330', 2), ('D2710', 2), ('D3500', 4), ('D3520', 3), ('D3526', 2), ('D3607', 15), ('D3826', 2), ('D4181', 2), ('D4457', 2), ('D4524', 2), ('D10115', 2), ('D10399', 2)]
