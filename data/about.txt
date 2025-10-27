@@ -1,1 +1,29 @@
 PLC Data logging goes here. 
+Updated Format:
+OMNI_hour_date.csv
+
+Explaination:
+OMNI_ --> this log includes all items for: "R513A_UNIT", "LOGGER", "TEST_STATION", "CHAMBER"
+hour  --> This is the hour (1-24) in which the log was created. This was done becuase of the huge filesize that occurs when logging everything to one file.
+date  --> Date the log was created.
+
+Structural Notes:
+The csv has a 2 Row header.
+First row, First column of respective logs:
+"R513A_UNIT", "LOGGER", "TEST_STATION", "CHAMBER"
+
+Second Row:
+Registers of respective devices.
+
+
+
+Currently: 286 (NP) registers from 4 seperate devices are being logged to one file. 
+
+Discussion:
+Could we make the logs even longer? Multiple hours?? Sure!
+but at some point, we're going to hit data limits on file sizes on github.
+not to mention uploading large datasets could have unintended effects on the fragile network.
+Then there is the scripting component. which is easy to make a script do with github, on linux. 
+
+I would need to research more to use whatever other suite, or gdrive, find an apt place to put logs, yada yada yada. 
+Im sure we can do it, When? Where? How? no idea. 
