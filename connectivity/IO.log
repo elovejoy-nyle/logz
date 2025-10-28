@@ -10862,3 +10862,4 @@ INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
 INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-27T19:29:46
 INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
 INFO:__main__:Rotated OMNI file -> OMNI_20_2025-10-27.csv
+INFO:__main__:Rotated OMNI file -> OMNI_21_2025-10-27.csv
