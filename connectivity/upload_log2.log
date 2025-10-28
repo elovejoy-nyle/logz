@@ -165,3 +165,16 @@ Waiting for OMNI_00_2025-10-28.csv (attempt 3/5)...
 Waiting for OMNI_00_2025-10-28.csv (attempt 4/5)...
 Waiting for OMNI_00_2025-10-28.csv (attempt 5/5)...
 Copied IO.log -> connectivity/
+[main 38bb6d8] Hourly data update 2025-10-28 01:00:16
+ 3 files changed, 3600 insertions(+)
+Syncing with remote...
+From github.com:elovejoy-nyle/logz
+ * branch            main       -> FETCH_HEAD
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+Rebase skipped or failed.
+Push successful at 01:00:20.
+=== Hourly update complete ===
+Found previous hour file: OMNI_01_2025-10-28.csv
+Moved OMNI_01_2025-10-28.csv -> data/
+Copied IO.log -> connectivity/
