@@ -11663,3 +11663,442 @@ INFO:__main__:LOGGER: Reconnected at 2025-10-29T08:30:07
 INFO:__main__:Rotated OMNI file -> OMNI_09_2025-10-29.csv
 INFO:__main__:Rotated OMNI file -> OMNI_10_2025-10-29.csv
 INFO:__main__:Rotated OMNI file -> OMNI_11_2025-10-29.csv
+INFO:__main__:Starting thread for LOGGER (10.10.10.57)
+INFO:__main__:Starting thread for TEST_STATION (10.10.10.30)
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:Starting thread for CHAMBER (10.10.10.10)
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:Starting thread for R513A_UNIT (10.10.10.92)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T11:44:43
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T11:44:43
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T11:44:43
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T11:44:43
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T11:44:46
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T11:44:46
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T11:44:46
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T11:44:46
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T11:44:49
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T11:44:49
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T11:44:49
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T11:44:49
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnected at 2025-10-29T11:44:52
+INFO:__main__:LOGGER: Built D batches: [('D0006', 4), ('D0014', 2), ('D0019', 4), ('D0040', 4), ('D0058', 2), ('D0110', 2), ('D0220', 3), ('D0255', 2), ('D0324', 2), ('D0606', 8), ('D0632', 4), ('D1998', 10), ('D2010', 6), ('D2018', 8), ('D2028', 4), ('D2034', 8), ('D2044', 2), ('D2060', 2), ('D2064', 6), ('D3000', 4), ('D3108', 6), ('D3126', 2), ('D5309', 2)]
+INFO:__main__:CHAMBER: Reconnected at 2025-10-29T11:44:52
+INFO:__main__:CHAMBER: Built D batches: [('D0024', 4), ('D0030', 2), ('D0044', 4), ('D0050', 2), ('D0064', 2), ('D0068', 4), ('D0084', 4), ('D0090', 2), ('D0094', 2), ('D0100', 7), ('D0108', 8), ('D0176', 6), ('D0184', 2), ('D0200', 6), ('D0258', 2), ('D0266', 2), ('D0300', 26), ('D0800', 2), ('D0804', 2), ('D1006', 2), ('D2002', 2)]
+INFO:__main__:TEST_STATION: Reconnected at 2025-10-29T11:44:52
+INFO:__main__:TEST_STATION: Built D batches: [('D0000', 11), ('D0014', 8), ('D0024', 7), ('D0032', 6), ('D0039', 2), ('D0048', 7), ('D0056', 7), ('D0064', 6), ('D0080', 2), ('D0300', 24), ('D0350', 4), ('D0400', 14)]
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:44:52
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:44:55
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:45:08
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:45:11
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:45:14
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:45:17
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:45:20
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:45:33
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:45:36
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:45:39
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:45:42
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:45:45
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:45:58
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:46:01
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:46:04
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:46:07
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:46:10
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:46:23
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:46:26
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:46:29
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:46:32
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:46:35
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:46:48
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:46:51
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:46:54
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:46:57
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:47:00
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:47:13
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:47:16
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:47:19
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:47:22
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:47:25
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:47:38
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:47:41
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:47:44
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:47:47
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:47:50
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:48:03
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:48:06
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:48:09
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:48:12
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:48:15
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:48:28
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:48:31
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:48:34
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:48:37
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:48:40
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:48:53
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:48:56
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:48:59
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:49:02
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:49:05
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:49:18
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:49:21
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:49:24
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:49:27
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:49:30
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:49:43
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:49:46
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:49:49
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:49:52
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:49:55
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:50:08
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:50:11
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:50:14
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:50:17
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:50:20
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:50:33
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:50:36
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:50:39
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:50:42
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:50:45
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:50:58
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:51:01
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:51:04
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:51:07
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:51:10
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:51:23
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:51:26
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:51:29
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:51:32
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:51:35
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:51:48
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:51:51
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:51:54
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:51:57
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:52:00
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:52:13
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:52:16
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:52:19
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:52:22
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:52:25
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:52:38
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:52:41
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:52:44
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:52:47
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:52:50
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:53:03
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:53:06
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:53:09
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:53:12
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:53:15
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:53:28
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:53:31
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:53:34
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:53:37
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:53:40
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:53:53
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:53:56
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:53:59
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:54:02
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:54:05
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:54:18
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:54:21
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:54:24
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:54:27
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:54:30
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:54:43
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:54:46
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:54:49
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:54:52
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:54:55
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:55:08
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:55:11
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:55:14
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:55:17
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:55:20
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:55:33
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:55:36
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:55:39
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:55:42
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:55:45
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:55:58
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:56:01
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:56:04
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:56:07
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:56:10
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:56:23
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:56:26
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:56:29
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:56:32
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:56:35
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:56:48
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:56:51
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:56:54
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:56:57
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:57:00
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:57:13
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:57:16
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:57:19
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:57:22
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:57:25
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:57:38
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:57:41
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:57:44
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:57:47
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:57:50
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:58:03
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:58:06
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:58:09
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:58:12
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:58:15
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:58:28
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:58:31
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:58:34
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:58:37
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:58:40
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:58:53
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:58:56
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:58:59
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:59:02
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:59:05
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:59:18
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:59:21
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:59:24
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:59:27
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:59:30
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 1/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 1 failed: [Errno 111] Connection refused at 2025-10-29T11:59:43
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 2/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 2 failed: [Errno 111] Connection refused at 2025-10-29T11:59:46
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 3/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 3 failed: [Errno 111] Connection refused at 2025-10-29T11:59:49
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 4/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 4 failed: [Errno 111] Connection refused at 2025-10-29T11:59:52
+INFO:__main__:R513A_UNIT: Reconnecting (attempt 5/5)
+INFO:__main__:R513A_UNIT: Reconnect attempt 5 failed: [Errno 111] Connection refused at 2025-10-29T11:59:55
+INFO:__main__:R513A_UNIT: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:Rotated OMNI file -> OMNI_12_2025-10-29.csv

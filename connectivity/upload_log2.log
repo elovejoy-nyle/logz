@@ -648,3 +648,6 @@ Push successful at 10:00:05.
 Found previous hour file: OMNI_10_2025-10-29.csv
 Moved OMNI_10_2025-10-29.csv -> data/
 Copied IO.log -> connectivity/
+Found previous hour file: OMNI_11_2025-10-29.csv
+Moved OMNI_11_2025-10-29.csv -> data/
+Copied IO.log -> connectivity/
