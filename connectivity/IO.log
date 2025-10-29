@@ -10898,3 +10898,766 @@ INFO:__main__:Rotated OMNI file -> OMNI_05_2025-10-29.csv
 INFO:__main__:Rotated OMNI file -> OMNI_06_2025-10-29.csv
 INFO:__main__:Rotated OMNI file -> OMNI_07_2025-10-29.csv
 INFO:__main__:Rotated OMNI file -> OMNI_08_2025-10-29.csv
+ERROR:__main__:TEST_STATION: Batch D0048 failed: timed out
+ERROR:__main__:LOGGER: Batch D0040 failed: timed out
+ERROR:__main__:CHAMBER: Batch D0050 failed: timed out
+ERROR:__main__:TEST_STATION: Batch D0056 failed: timed out
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+ERROR:__main__:LOGGER: Batch D0050 failed: timed out
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+ERROR:__main__:CHAMBER: Batch D0062 failed: timed out
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 113] No route to host at 2025-10-29T08:20:45
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 113] No route to host at 2025-10-29T08:20:45
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 113] No route to host at 2025-10-29T08:20:45
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:20:48
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:20:48
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:20:48
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:20:51
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:20:51
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:20:51
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:20:54
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:20:54
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:20:54
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:20:57
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:20:57
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:20:57
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:10
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:10
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:10
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:13
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:13
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:13
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:16
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:16
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:16
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:19
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:19
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:19
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:22
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:22
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:22
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:35
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:35
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:35
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:38
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:38
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:38
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:41
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:41
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:41
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:44
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:44
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:44
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:47
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:47
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:21:47
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:00
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:00
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:00
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:03
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:03
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:03
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:06
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:06
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:06
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:09
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:09
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:09
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:12
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:12
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:12
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:25
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:25
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:25
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:28
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:28
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:28
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:31
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:31
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:31
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:34
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:34
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:34
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:37
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:37
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:37
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:50
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:50
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:50
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:53
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:53
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:53
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:56
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:56
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:56
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:59
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:59
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:22:59
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:02
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:02
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:02
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:15
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:15
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:15
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:18
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:18
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:18
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:21
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:21
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:21
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:24
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:24
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:24
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:27
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:27
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:27
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:40
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:40
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:40
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:43
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:43
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:43
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:46
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:46
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:46
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:49
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:49
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:49
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:52
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:52
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:23:52
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:05
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:05
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:05
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:08
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:08
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:08
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:11
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:11
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:11
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:14
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:14
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:14
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:17
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:17
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:17
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:30
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:30
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:30
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:33
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:33
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:33
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:36
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:36
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:36
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:39
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:39
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:39
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:42
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:42
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:42
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:55
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:55
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:55
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:58
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:58
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:24:58
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:01
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:01
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:01
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:04
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:04
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:04
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:07
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:07
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:07
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:20
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:20
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:20
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:23
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:23
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:23
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:26
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:26
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:26
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:29
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:29
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:29
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:32
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:32
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:32
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:45
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:45
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:45
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:48
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:48
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:48
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:51
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:51
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:51
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:54
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:54
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:54
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:57
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:57
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:25:57
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:10
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:10
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:10
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:13
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:13
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:13
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:16
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:16
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:16
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:19
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:19
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:19
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:22
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:22
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:22
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:35
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:35
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:35
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:38
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:38
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:38
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:41
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:41
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:41
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:44
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:44
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:44
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:47
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:47
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:26:47
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:00
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:00
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:00
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:03
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:03
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:03
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:06
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:06
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:06
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:09
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:09
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:09
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:12
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:12
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:12
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:25
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:25
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:25
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:28
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:28
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:28
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:31
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:31
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:31
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:34
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:34
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:34
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:37
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:37
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:37
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:50
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:50
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:50
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:53
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:53
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:53
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:56
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:56
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:56
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:59
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:59
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:27:59
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:02
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:02
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:02
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:15
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:15
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:15
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:18
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:18
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:18
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:21
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:21
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:21
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:24
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:24
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:24
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:27
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:27
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:27
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:40
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:40
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:40
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:43
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:43
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:43
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:46
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:46
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:46
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:49
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:49
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:49
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:52
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:52
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:28:52
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:05
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:05
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:05
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:08
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:08
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:08
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:11
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:11
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:11
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:14
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:14
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:14
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:17
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:17
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:17
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:30
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:30
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:30
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:33
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:33
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:33
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:36
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:36
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:36
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:39
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:39
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:39
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:42
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:42
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnect attempt 5 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:42
+INFO:__main__:CHAMBER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:TEST_STATION: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:LOGGER: All reconnect attempts failed, waiting 10s before retry
+INFO:__main__:CHAMBER: Reconnecting (attempt 1/5)
+INFO:__main__:CHAMBER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:55
+INFO:__main__:TEST_STATION: Reconnecting (attempt 1/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:55
+INFO:__main__:LOGGER: Reconnecting (attempt 1/5)
+INFO:__main__:LOGGER: Reconnect attempt 1 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:55
+INFO:__main__:CHAMBER: Reconnecting (attempt 2/5)
+INFO:__main__:CHAMBER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:58
+INFO:__main__:TEST_STATION: Reconnecting (attempt 2/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:58
+INFO:__main__:LOGGER: Reconnecting (attempt 2/5)
+INFO:__main__:LOGGER: Reconnect attempt 2 failed: [Errno 101] Network is unreachable at 2025-10-29T08:29:58
+INFO:__main__:CHAMBER: Reconnecting (attempt 3/5)
+INFO:__main__:CHAMBER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:30:01
+INFO:__main__:TEST_STATION: Reconnecting (attempt 3/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:30:01
+INFO:__main__:LOGGER: Reconnecting (attempt 3/5)
+INFO:__main__:LOGGER: Reconnect attempt 3 failed: [Errno 101] Network is unreachable at 2025-10-29T08:30:01
+INFO:__main__:CHAMBER: Reconnecting (attempt 4/5)
+INFO:__main__:CHAMBER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:30:04
+INFO:__main__:TEST_STATION: Reconnecting (attempt 4/5)
+INFO:__main__:TEST_STATION: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:30:04
+INFO:__main__:LOGGER: Reconnecting (attempt 4/5)
+INFO:__main__:LOGGER: Reconnect attempt 4 failed: [Errno 101] Network is unreachable at 2025-10-29T08:30:04
+INFO:__main__:CHAMBER: Reconnecting (attempt 5/5)
+INFO:__main__:CHAMBER: Reconnected at 2025-10-29T08:30:07
+INFO:__main__:TEST_STATION: Reconnecting (attempt 5/5)
+INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
+INFO:__main__:TEST_STATION: Reconnected at 2025-10-29T08:30:07
+INFO:__main__:LOGGER: Reconnected at 2025-10-29T08:30:07
+INFO:__main__:Rotated OMNI file -> OMNI_09_2025-10-29.csv
