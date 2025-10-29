@@ -11661,3 +11661,4 @@ INFO:__main__:LOGGER: Reconnecting (attempt 5/5)
 INFO:__main__:TEST_STATION: Reconnected at 2025-10-29T08:30:07
 INFO:__main__:LOGGER: Reconnected at 2025-10-29T08:30:07
 INFO:__main__:Rotated OMNI file -> OMNI_09_2025-10-29.csv
+INFO:__main__:Rotated OMNI file -> OMNI_10_2025-10-29.csv
